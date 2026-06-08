@@ -1,0 +1,23 @@
+# Capturas de red (pueden ser archivos grandes)
+capturas/
+
+# Reportes HTML generados
+*.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Variables de entorno
+.env
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
